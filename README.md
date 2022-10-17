@@ -5,3 +5,5 @@ Rješenje zadatka predavalo se u tekstualnom obliku (_rjesenje.txt_ datoteka), a
 - SQL naredbe za kreiranje činjenične tablice i dimenzijskih tablica
 - SQL naredbe za popunjavanje svih tih tablica temeljem podataka u zadanoj bazi podataka
 - SQL upite na tablice skladišta podataka koje daju odgovore na pitanja iz zadatka (v. _pdf_ datoteku)
+
+Izrađeno u travnju 2022.
